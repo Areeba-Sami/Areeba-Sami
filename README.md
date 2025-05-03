@@ -1,4 +1,4 @@
-## its for my internship which combine my project 
+## 
 
 <!--
 **Areeba-Sami/Areeba-Sami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
